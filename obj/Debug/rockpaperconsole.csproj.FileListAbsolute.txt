@@ -1,0 +1,18 @@
+c:\users\anura\onedrive\documents\visual studio 2015\Projects\rockpaperconsole\rockpaperconsole\bin\Debug\rockpaperconsole.exe.config
+C:\Users\anura\OneDrive\Documents\Visual Studio 2015\Projects\rockpaperconsole\rockpaperconsole\bin\Debug\rockpaperconsole.exe
+C:\Users\anura\OneDrive\Documents\Visual Studio 2015\Projects\rockpaperconsole\rockpaperconsole\bin\Debug\rockpaperconsole.pdb
+C:\Users\anura\OneDrive\Documents\Visual Studio 2015\Projects\rockpaperconsole\rockpaperconsole\obj\Debug\rockpaperconsole.csprojResolveAssemblyReference.cache
+C:\Users\anura\OneDrive\Documents\Visual Studio 2015\Projects\rockpaperconsole\rockpaperconsole\obj\Debug\rockpaperconsole.exe
+C:\Users\anura\OneDrive\Documents\Visual Studio 2015\Projects\rockpaperconsole\rockpaperconsole\obj\Debug\rockpaperconsole.pdb
+C:\Users\anura\Desktop\assignment 1\rockpaperconsole\bin\Debug\rockpaperconsole.exe.config
+C:\Users\anura\Desktop\assignment 1\rockpaperconsole\obj\Debug\rockpaperconsole.exe
+C:\Users\anura\Desktop\assignment 1\rockpaperconsole\obj\Debug\rockpaperconsole.pdb
+C:\Users\anura\Desktop\assignment 1\rockpaperconsole\bin\Debug\rockpaperconsole.exe
+C:\Users\anura\Desktop\assignment 1\rockpaperconsole\bin\Debug\rockpaperconsole.pdb
+C:\Users\anura\Desktop\assignment 1\rockpaperconsole\obj\Debug\rockpaperconsole.csprojResolveAssemblyReference.cache
+C:\recovery of documents\STUDY\MSD-1\Game 1\rockpaperconsole\bin\Debug\rockpaperconsole.exe.config
+C:\recovery of documents\STUDY\MSD-1\Game 1\rockpaperconsole\bin\Debug\rockpaperconsole.exe
+C:\recovery of documents\STUDY\MSD-1\Game 1\rockpaperconsole\bin\Debug\rockpaperconsole.pdb
+C:\recovery of documents\STUDY\MSD-1\Game 1\rockpaperconsole\obj\Debug\rockpaperconsole.csprojResolveAssemblyReference.cache
+C:\recovery of documents\STUDY\MSD-1\Game 1\rockpaperconsole\obj\Debug\rockpaperconsole.exe
+C:\recovery of documents\STUDY\MSD-1\Game 1\rockpaperconsole\obj\Debug\rockpaperconsole.pdb
